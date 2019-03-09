@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Torhüter</string>
+    <string name="player1">Spieler 1</string>
+    <string name="zero">0</string>
+    <string name="player2">Spieler 2</string>
+    <string name="player_1_scored">Spieler 1 hat erzielt</string>
+    <string name="player_2_scored">Spieler 2 hat erzielt</string>
+</resources>

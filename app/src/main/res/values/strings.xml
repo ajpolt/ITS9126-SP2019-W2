@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ScoreKeeper</string>
+    <string name="player1">Player 1</string>
+    <string name="zero">0</string>
+    <string name="player2">Player 2</string>
+    <string name="player_1_scored">Player 1 Scored</string>
+    <string name="player_2_scored">Player 2 Scored</string>
+</resources>
